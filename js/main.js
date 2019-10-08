@@ -1,0 +1,1 @@
+(document.querySelector(".body-text").style.color = "#e20074")();
